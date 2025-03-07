@@ -11,6 +11,6 @@
     <TargetFrameworks>net8.0</TargetFrameworks>
   </PropertyGroup>
   <ItemGroup>
-      <None Include="..\readme.md" Pack="true" PackagePath="\"/>
+      <None Include="..\Readme.md" Pack="true" PackagePath="\"/>
   </ItemGroup>
 </Project>
