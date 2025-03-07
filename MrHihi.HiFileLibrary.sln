@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiFileLibrary", "HiFileLibrary\HiFileLibrary.csproj", "{3F789BE8-BDBA-613B-87E3-27BBDD17E158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiFileLibrary.Test", "HiFileLibrary.Test\HiFileLibrary.Test.csproj", "{CA314993-C2A4-49E3-86FC-26EE3C4593C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F789BE8-BDBA-613B-87E3-27BBDD17E158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F789BE8-BDBA-613B-87E3-27BBDD17E158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F789BE8-BDBA-613B-87E3-27BBDD17E158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F789BE8-BDBA-613B-87E3-27BBDD17E158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA314993-C2A4-49E3-86FC-26EE3C4593C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA314993-C2A4-49E3-86FC-26EE3C4593C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA314993-C2A4-49E3-86FC-26EE3C4593C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA314993-C2A4-49E3-86FC-26EE3C4593C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06758C91-6328-409C-9BFA-A98986209E17}
+	EndGlobalSection
+EndGlobal
