@@ -7,6 +7,10 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/mrhihi/MrHihi.HiFileLibrary</PackageProjectUrl>
     <RepositoryUrl>https://github.com/mrhihi/MrHihi.HiFileLibrary</RepositoryUrl>
+    <PackageReadmeFile>Readme.md</PackageReadmeFile>
     <TargetFrameworks>net8.0</TargetFrameworks>
   </PropertyGroup>
+  <ItemGroup>
+      <None Include="..\readme.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 </Project>
